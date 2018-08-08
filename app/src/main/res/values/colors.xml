@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2d4587</color>
+    <color name="colorPrimaryDark">#243568</color>
+    <color name="colorAccent">#38B9B5</color>
+
+    <color name="colorBackgroundGray">#F6F6F6</color>
+    <color name="colorTextGray">#A5A5A5</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="colorLightGray">#c7c7c7</color>
+    <color name="colorTextDark">#333333</color>
+    <color name="black">#000000</color>
+
+    <color name="light_gray">#F0F5F5</color>
+    <color name="translucent_white">#80FFFFFF</color>
+    <color name="dark_gray">#243037</color>
+
+    <color name="light_blue">#59AAFF</color>
+
+    <color name="dark_blue">#1C6AC9</color>
+    <color name="colorShimmerGray">#d7d7d7</color>
+    <color name="colorShimmerGrayLight">#e7e7e7</color>
+    <color name="colorShimmerGrayLighter">#f3f3f3</color>
+
+    <color name="shimmerBackground">#2f4463</color>
+    <color name="colorShimmerBlue">#31547f</color>
+
+    <color name="materialGreen">#4CAF50</color>
+    <color name="materialBlue">#039be5</color>
+    <color name="materialOrange">#e15a2d</color>
+    <color name="materialBlueGray">#607D8B</color>
+    <color name="material_light_red">#e35353</color>
+    <color name="material_light_green">#9fca34</color>
+
+    <color name="fbFeedBackground">#cdcdd7</color>
+    <color name="fbLikeDark">#3f3f52</color>
+
+    <color name="cb_dark_grey">#464646</color>
+    <color name="light_grey">#d3d3d3</color>
+    <color name="primary_blue">#00aeef</color>
+    <color name="orange">#c56100</color>
+    <color name="gray">#95a5a6</color>
+    <color name="blue">#FF1784C7</color>
+    <color name="push_notification">#4dd0e1</color>
+
+    <color name="bottomNavBackground">#ffffff</color>
+    <color name="bottomNavUnSelected">#a3a7a8</color>
+    <color name="bottomNavSelectedBlue">#2d4587</color>
+    <color name="bottomNavSelectedGreen">#64ffda</color>
+    <color name="badgeColor">#ef5350</color>
+
+    <color name="black_overlay">#66000000</color>
+
+
+    <!--Card View-->
+    <color name="bt_white">#ffffff</color>
+    <color name="bt_black">#001129</color>
+    <color name="bt_blue">#009bde</color>
+    <color name="bt_light_gray">#6d6d6d</color>
+    <color name="bt_expiration_date_sheet_background_light">#eceff0</color>
+    <color name="bt_expiration_date_sheet_background_dark">#20272b</color>
+    <color name="bt_black_12">#1e000000</color>
+    <color name="bt_white_12">#1effffff</color>
+    <color name="bt_black_38">#61000000</color>
+    <color name="bt_white_38">#61ffffff</color>
+    <color name="bt_black_54">#8a000000</color>
+    <color name="bt_white_54">#8affffff</color>
+    <color name="bt_black_87">#de000000</color>
+    <color name="bt_white_87">#deffffff</color>
+    <!--Card View-->
+
+
+</resources>

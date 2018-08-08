@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- Declare custom theme attributes that allow changing which styles are
+         used for button bars depending on the API level.
+         ?android:attr/buttonBarStyle is new as of API 11 so this is
+         necessary to support previous API levels. -->
+    <declare-styleable name="ButtonBarContainerTheme">
+        <attr name="metaButtonBarStyle" format="reference" />
+        <attr name="metaButtonBarButtonStyle" format="reference" />
+    </declare-styleable>
+
+    <!--Card View-->
+    <attr name="bt_expiration_date_sheet_background" format="color"/>
+    <attr name="bt_expiration_date_dialog_label" format="color"/>
+    <attr name="bt_expiration_date_dialog_divider" format="color" />
+    <attr name="bt_expiration_date_scrollbar_thumb_vertical" format="color" />
+    <attr name="bt_expiration_date_scrollbar_track_vertical" format="color" />
+    <!--Card View-->
+
+</resources>

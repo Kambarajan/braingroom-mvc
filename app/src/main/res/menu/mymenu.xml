@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.braingroom.android.mvvmexample.view.ClassDetailActivity">
+    <item
+        android:id="@+id/notification"
+        android:title="Notification"
+        android:showAsAction="withText|ifRoom"
+        android:icon="@drawable/ic_menu_notifications"
+        />
+    <item
+        android:id="@+id/message"
+        android:title="Message"
+        android:showAsAction="withText|ifRoom"
+        android:icon="@drawable/ic_menu_message"
+        />
+
+</menu>
